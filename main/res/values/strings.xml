@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">resturantTip</string>
+    <string name="pizza">pizza-100 Rs</string>
+    <string name="burger">burger-50 Rs</string>
+    <string name="pasta">pasta-150 Rs</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="order">order</string>
+    <string name="menu">Menu</string>
+    <string name="take">Take Away</string>
+    <string name="dine">Dine In</string>
+    <string name="te">Mode of Payment</string>
+    <string name="of">Cash</string>
+</resources>
